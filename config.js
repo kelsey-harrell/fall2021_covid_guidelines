@@ -253,7 +253,7 @@ var config = {
             hidden: false,
             title: 'Penn State University',
             image: './images/penn.png',
-            description: 'Penn State University is requiring everyone to wear face coverings inside university buildings. The university is encouraging everyone who can get vaccinated to do so and report their vaccination status. Indivduals who haven&#39;t reported their vaccination status by Aug. 9 will be required to get tested for COVID-19 during the fall semester. Students living in residence halls will be required to complete a COVID-19 test upon arriving on campus. Read more on the Penn State University website: <a href="https://virusinfo.psu.edu/covid-19-dashboard/">https://virusinfo.psu.edu/covid-19-dashboard/<a>.',
+            description: 'Penn State University is requiring everyone to wear face coverings inside university buildings. The university is encouraging everyone who can get vaccinated to do so and report their vaccination status. Indivduals who haven&#39;t reported their vaccination status by Aug. 9 will be required to get tested for COVID-19 weekly during the fall semester. Students living in residence halls will be required to complete a COVID-19 test upon arriving on campus. Read more on the Penn State University website: <a href="https://virusinfo.psu.edu/covid-19-dashboard/">https://virusinfo.psu.edu/covid-19-dashboard/<a>.',
             location: {
               center: [-77.86177, 40.80679],
               zoom: 14.00,
