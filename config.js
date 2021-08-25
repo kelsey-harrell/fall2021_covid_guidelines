@@ -101,7 +101,7 @@ var config = {
             hidden: false,
             title: 'University of Illinois at Urbana-Champaign',
             image: './images/illini.png',
-            description: 'The University of Illinois at Urbana-Champaign is requiring all students who are able to be fully vaccinated before returning to campus for the fall 2021 semester. Individuals who can&#39;t get vaccinated for medical or other reasons will be required to continue participating in the COVID-19 testing program. Students, faculty, and staff must complete an on-campus COVID-19 test and receive a negative result or have a university-verified vaccination record card to access university buildings. Read more on the University of Illinois website: <a href="https://covid19.illinois.edu/">https://covid19.illinois.edu/</a>.',
+            description: 'The University of Illinois at Urbana-Champaign requires all students who are able to be fully vaccinated before returning to campus for the fall 2021 semester. Individuals who can&#39;t get vaccinated for medical or other reasons will be required to continue participating in the COVID-19 testing program. Students, faculty, and staff must complete an on-campus COVID-19 test and receive a negative result or have a university-verified vaccination record card to access university buildings. Read more on the University of Illinois website: <a href="https://covid19.illinois.edu/">https://covid19.illinois.edu/</a>.',
             location: {
               center: [-88.22519, 40.10887],
               zoom: 15.00,
