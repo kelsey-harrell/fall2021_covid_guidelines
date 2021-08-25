@@ -177,7 +177,7 @@ var config = {
             hidden: false,
             title: 'Purdue University',
             image: './images/purdue.png',
-            description: 'Purdue University is allowings students to choose to either to provide proof of vaccination by Aug. 13 or particpate in routine COVID-19 surveillance testing. Ten students who are fully vaccinated will win $9,992 for choosing to get vaccinated. Students, faculty, staff, and visitors are required to wear masks indoors regardless of vaccination status. Read more on the Purdue University website: "https://protect.purdue.edu/">https://protect.purdue.edu/</a>.',
+            description: 'Purdue University is allowings students to choose to either to provide proof of vaccination by Aug. 13 or particpate in routine COVID-19 surveillance testing. Ten students who are fully vaccinated will win $9,992 for choosing to get vaccinated. Students, faculty, staff, and visitors are required to wear masks indoors regardless of vaccination status. Read more on the Purdue University website: <a href="https://protect.purdue.edu/">https://protect.purdue.edu/</a>.',
             location: {
               center: [-86.92495, 40.42759],
               zoom: 14.00,
@@ -234,7 +234,7 @@ var config = {
             hidden: false,
             title: 'Ohio State University',
             image: './images/ohiost.png',
-            description: 'Ohio State University is requiring everyone to wear masks inside university buildings regardless of vaccination status. Unvaccinated individuals are required to wear masks outside when social distancing isn&#39;t possible, vaccinated individuals don&#39;t need to wear a face covering outside. Students, faculty, and staff are required to report whether they&#39;re vaccinated by Aug. 5. To encourage vaccination, Ohio State is distributing $50,000 worth of prizes to students, faculty, and staff who get vaccinated and report it to the institution. Read more on the Ohio State University website: <a href="https://safeandhealthy.osu.edu/">https://safeandhealthy.osu.edu/</a>.',
+            description: 'Ohio State University is requiring students, faculty, and staff get vaccinated. It is also requiring everyone to wear masks inside university buildings regardless of vaccination status. Unvaccinated individuals are required to wear masks outside when social distancing isn&#39;t possible, vaccinated individuals don&#39;t need to wear a face covering outside. Students, faculty, and staff are required to report whether they&#39;re vaccinated by Aug. 5. To encourage vaccination, Ohio State is distributing $50,000 worth of prizes to students, faculty, and staff who get vaccinated and report it to the institution. Read more on the Ohio State University website: <a href="https://safeandhealthy.osu.edu/">https://safeandhealthy.osu.edu/</a>.',
             location: {
               center: [-83.02812, 40.00409],
               zoom: 14.81,
