@@ -63,7 +63,7 @@ var config = {
             hidden: false,
             title: 'University of Nebraska-Lincoln',
             image: './images/neb.jpg',
-            description: 'The University of Nebraska-Lincoln will require all students, faculty, and staff to be tested upon returning to campus, and willcontinue to administer weekly COVID-19 saliva testing. Fully vaccinated individuals are not required to wear face coverings, but are encouraged to per CDC guidelines. Nebraska will adapt guidelines as delta varient cases increase. Unvaccinated individuals are expected to wear face coverings. Read more on the University of Nebraska-Lincoln website: <a href="https://covid19.unl.edu/fall-2021-campus">https://covid19.unl.edu/fall-2021-campus</a>.',
+            description: 'The University of Nebraska-Lincoln will require all students, faculty, and staff to be tested upon returning to campus, and will continue to administer weekly COVID-19 saliva testing. Fully vaccinated individuals are not required to wear face coverings, but are encouraged to per CDC guidelines. Nebraska will adapt guidelines as delta varient cases increase. Unvaccinated individuals are expected to wear face coverings. Read more on the University of Nebraska-Lincoln website: <a href="https://covid19.unl.edu/fall-2021-campus">https://covid19.unl.edu/fall-2021-campus</a>.',
             location: {
               center: [-96.70123, 40.82088],
               zoom: 13.00,
@@ -120,7 +120,7 @@ var config = {
             hidden: false,
             title: 'Northwestern University',
             image: './images/north.png',
-            description: 'Northwestern University is requiring all students to complete a COVID-19 vaccination form in order to register for on-campus classes this fall. Students, faculty, and staff will be required to wear a face covering in indoor spaces regardless of their vaccination status. The only acceptions to this rule are private offices, personal residence or dorm room, or when eating or drinking. Unvaccinated students are expected to comply with heightened COVID-19 testing, symptom monitoring, and quarentining/isolating. Read more on the Northwestern University website: <a href="https://www.northwestern.edu/coronavirus-covid-19-updates/">https://www.northwestern.edu/coronavirus-covid-19-updates/</a>.',
+            description: 'Northwestern University is requiring all students to complete a COVID-19 vaccination form in order to register for on-campus classes this fall. Students, faculty, and staff will be required to wear a face covering in indoor spaces regardless of their vaccination status. The only exceptions to this rule are private offices, personal residence or dorm room, or when eating or drinking. Unvaccinated students are expected to comply with heightened COVID-19 testing, symptom monitoring, and quarentining/isolating. Read more on the Northwestern University website: <a href="https://www.northwestern.edu/coronavirus-covid-19-updates/">https://www.northwestern.edu/coronavirus-covid-19-updates/</a>.',
             location: {
               center: [-87.67587, 42.05605],
               zoom: 15.00,
