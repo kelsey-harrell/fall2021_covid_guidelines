@@ -63,7 +63,7 @@ var config = {
             hidden: false,
             title: 'University of Nebraska-Lincoln',
             image: './images/neb.jpg',
-            description: 'The University of Nebraska-Lincoln will require all students, faculty, and staff to be tested upon returning to campus, and will continue to administer weekly COVID-19 saliva testing. Fully vaccinated individuals are not required to wear face coverings, but are encouraged to per CDC guidelines. Nebraska will adapt guidelines as delta varient cases increase. Unvaccinated individuals are expected to wear face coverings. Read more on the University of Nebraska-Lincoln website: <a href="https://covid19.unl.edu/fall-2021-campus">https://covid19.unl.edu/fall-2021-campus</a>.',
+            description: 'The University of Nebraska-Lincoln will require all students, faculty, and staff to be tested upon returning to campus, and will continue to administer weekly COVID-19 saliva testing. Nebraska will require face coverings in university buildings, per Lincoln-Lancaster County guidelines. Read more on the University of Nebraska-Lincoln website: <a href="https://covid19.unl.edu/fall-2021-campus">https://covid19.unl.edu/fall-2021-campus</a>.',
             location: {
               center: [-96.70123, 40.82088],
               zoom: 13.00,
