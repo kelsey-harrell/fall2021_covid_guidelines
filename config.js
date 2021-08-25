@@ -177,7 +177,7 @@ var config = {
             hidden: false,
             title: 'Purdue University',
             image: './images/purdue.png',
-            description: 'Purdue University is allowings students to choose to either to provide proof of vaccination by Aug. 13 or particpate in routine COVID-19 surveillance testing. Ten students who are fully vaccinated will win $9,992 for choosing to get vaccinated. Students, faculty, staff, and visitors are required to wear masks indoors regardless of vaccination status. Read more on the Purdue University website: <a href="https://protect.purdue.edu/">https://protect.purdue.edu/</a>.',
+            description: 'Purdue University is allowing students to choose to either to provide proof of vaccination by Aug. 13 or particpate in routine COVID-19 surveillance testing. Ten students who are fully vaccinated will win $9,992 for choosing to get vaccinated. Students, faculty, staff, and visitors are required to wear masks indoors regardless of vaccination status. Read more on the Purdue University website: <a href="https://protect.purdue.edu/">https://protect.purdue.edu/</a>.',
             location: {
               center: [-86.92495, 40.42759],
               zoom: 14.00,
