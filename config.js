@@ -120,7 +120,7 @@ var config = {
             hidden: false,
             title: 'Northwestern University',
             image: './images/north.png',
-            description: 'Northwestern University is requiring all students to complete a COVID-19 vaccination form in order to register for on-campus classes this fall. Students, faculty, and staff will be required to wear a face covering in indoor spaces regardless of their vaccination status. The only exceptions to this rule are private offices, personal residence or dorm room, or when eating or drinking. Unvaccinated students are expected to comply with heightened COVID-19 testing, symptom monitoring, and quarentining/isolating. Read more on the Northwestern University website: <a href="https://www.northwestern.edu/coronavirus-covid-19-updates/">https://www.northwestern.edu/coronavirus-covid-19-updates/</a>.',
+            description: 'Northwestern University is requiring all students to complete a COVID-19 vaccination form in order to register for on-campus classes this fall. Students, faculty, and staff will be required to wear a face covering in indoor spaces regardless of their vaccination status. Private offices, personal residence or dorm room, or when eating or drinking are excempt from this rule. Unvaccinated students are expected to comply with heightened COVID-19 testing, symptom monitoring, and quarentining/isolating. Read more on the Northwestern University website: <a href="https://www.northwestern.edu/coronavirus-covid-19-updates/">https://www.northwestern.edu/coronavirus-covid-19-updates/</a>.',
             location: {
               center: [-87.67587, 42.05605],
               zoom: 15.00,
